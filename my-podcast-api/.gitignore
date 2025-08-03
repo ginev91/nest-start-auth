@@ -1,0 +1,17 @@
+/node_modules
+/dist
+.pnpm
+.env
+.vscode
+coverage
+.DS_Store
+*.log
+*.tgz
+*.zip
+*.tar.gz
+*.swp
+*.bak
+*.tmp
+*.temp
+*.pid
+*.seed
